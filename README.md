@@ -45,7 +45,7 @@ We present **DepthLab**, a robust depth inpainting foundation model that can be 
 Clone the repository (requires git):
 
 ```bash
-git clone https://github.com/ant-research/DepthLab.git
+git clone https://github.com/Johanan528/DepthLab.git
 cd DepthLab
 ```
 
