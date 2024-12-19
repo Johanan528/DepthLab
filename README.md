@@ -2,7 +2,7 @@
 
 This repository represents the official implementation of the paper titled "DepthLab: From Partial to Complete".
 
-[![Website](docs/badge-website.svg)](https://johanan528.github.io/DepthLab/)
+[![Website](docs/badge-website.svg)](https://johanan528.github.io/depthlab_web/)
 [![Paper](https://img.shields.io/badge/arXiv-PDF-b31b1b)](https://arxiv.org/abs/xxxx.xxxxx)
 [![License](https://img.shields.io/badge/License-Apache--2.0-929292)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue')](https://huggingface.co/Johanan0528/DepthLab)
